@@ -45,7 +45,7 @@ The VGG16 Architecture
 
 The built model looks something like this:
 
-![Screenshot 2023-01-07 204931](https://user-images.githubusercontent.com/74191100/211157334-788e3d40-a110-4d95-b386-041f4030d8cb.png)
+![Screenshot 2023-01-30 135729](https://user-images.githubusercontent.com/74191100/215422694-864fbc07-6002-42ba-aaa0-d0a382f463ca.png)
 
 
 
